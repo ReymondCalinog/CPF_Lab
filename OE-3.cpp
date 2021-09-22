@@ -33,7 +33,7 @@ int main(){
         cout << "Input Invalid, you did not put anything!" << endl;
         return 0;
     }
-    else if(gross_pay < 29999){ //If salary is less than 29999  + Tax deduction of Salary of 5%
+    else if(gross_pay < 29999){ //If salary is less than 29999 + Tax deduction of Salary of 5%
         VAT = gross_pay * Tax3;
         net_pay = gross_pay - VAT;
     }
