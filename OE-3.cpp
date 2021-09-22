@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
     string emp_name;
-    long long int emp_id,num_hours_work; //So I can input longer numbers that I can use for the Identification number
+    long long int emp_id,num_hours_work; //So I can input longer numbers that I can use for the Employee Identification
     double rate_per_hour, gross_pay, VAT, net_pay;
 
     cout << "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
