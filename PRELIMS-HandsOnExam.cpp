@@ -1,6 +1,6 @@
 //Name: Reymond Y. Calinog
 //Activity: PRELIMS Hands-on Examination
-//Description: C++ payroll program that prompts the user for a name, employee number, date of payday, hourly pay rate, and number of hours worked.
+//Description: C++ payroll program that prompts the user for a name, employee number, date of payday, hourly pay rate, and number of hours worked
 //Date: 10/6/2021
 
 #include <iostream>
@@ -54,7 +54,7 @@ int main(){
     else if(Np >= 5001 && Np < 10000){ //If net pay is between 5,001.00 – 10,000.00, caption is Probationary
     cout << "Employee status     : Probationary" << endl;
     }
-    else{ //Otherwise, caption is Regular.
+    else{ //Otherwise, caption is Regular
     cout << "Employee status     : Regular" << endl;
     }
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
