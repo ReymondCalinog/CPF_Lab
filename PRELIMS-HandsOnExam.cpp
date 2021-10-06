@@ -35,10 +35,11 @@ int main(){
     cout.setf(ios::showpoint);
     cout.precision(2);
 
-    cout << "\nPayroll summary for : " << Name << endl;
+    cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
+    cout << "Payroll summary for : " << Name << endl;
     cout << "Employee No.        : " << Emp_n << endl;
     cout << "Payroll date        : " << Date << endl;
-    cout << "\nYou earned " << Hr_w << " at " << Hr_pr << " per hour" << endl;
+    cout << "\nYou earned " << Hr_pr << " per hour at " << Hr_w << " hours" << endl;
     cout << "Grosspay            : Php " << Gp << endl;
     cout << "Withholding Tax     : Php " << Tax << endl;
     cout << "Philhealth          : Php " << Ph << endl;
