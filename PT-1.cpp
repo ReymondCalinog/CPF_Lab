@@ -16,7 +16,7 @@ int main(){
     cout << "Enter " << range << " consecutive numbers: ";
 
     while (b != range){ //The counter "b" will keep on executing until it reaches the exact number of the inputted range
-       cin >> a; //The number of consectuive numbers that will be inputted
+       cin >> a; //The number of consecutive numbers that will be inputted
        b++;
     if (a % 2 == 0){ //To be able to identify if the numbers are odd or even number
         cout << a << " is Even" << endl;
