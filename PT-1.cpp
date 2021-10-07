@@ -8,17 +8,17 @@
 using namespace std;
 
 int main(){
-    int range=0, a=0, b=0;
+    int range=0, a, b=0;
 
     cout << "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
     cout << "Enter range of numbers : ";
     cin >> range;
     cout << "Enter " << range << " consecutive numbers: ";
 
-    while (b != range){
-       cin >> a;
+    while (b != range){ //The counter "b" will keep on executing until it reaches the exact number of the inputted range
+       cin >> a; //The number of consectuive numbers that will be inputted
        b++;
-    if (a % 2 == 0){
+    if (a % 2 == 0){ //To be able to identify if the numbers are odd or even number
         cout << a << " is Even" << endl;
     }
     else{
