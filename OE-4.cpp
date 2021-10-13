@@ -1,6 +1,6 @@
 //Name: Reymond Y. Calinog
 //Activity: OE-4
-//Description: Post card from gizah, a for loop program that creates a "Pyramid" or Triangle from giza
+//Description: Post card from giza, a for loop program that creates a "Pyramid" or Triangle from giza
 //Date: 10/13/2021
 
 #include <iostream>
