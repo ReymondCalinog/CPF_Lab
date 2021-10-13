@@ -11,7 +11,7 @@ int main(){
     int n, a, b, c=1;
 
     /* 
-    The varibales and their purposes:
+    The variables and their purposes:
     "n" - it is used for the value inputted for the number of rows
     "a" - it is used for value of spaces of the rows
     "b" - it is used for the value of columns to build it structure using asterisk
