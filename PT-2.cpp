@@ -23,7 +23,7 @@ struct group_facet: public numpunct <char> {
 int main(){
     //Declare the variables for the user input.
     float conversionRate = 50.73; // $1 = 50.73 Pesos
-    float conversion = 0.020; // P1 = 0.20 Dollar
+    float conversion = 0.020; // P1 = 0.020 Dollar
     unsigned dollarsIn, pesosIn;
     int ch, ans=0;
 
