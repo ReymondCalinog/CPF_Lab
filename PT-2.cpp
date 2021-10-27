@@ -74,14 +74,14 @@ int main(){
 } //End of main function
 
     
-    // Define the promptAndWait() function.
+    // This void function is letting you continue on with the conversion console application once again, after you converted a currency
     void promptAndWait(){
         cin.ignore(100, '\n');
         cout << "\nPress Enter or Return to continue...";
         cin.get();
     }
 
-    // Define the dollarsToPeso function.
+    // This void function converts the inputted Dollars to Pesos
     void dollarsToPeso(float conversionRate, unsigned dollarsIn){
     // Adjust the formatting.
         cout.setf(ios::fixed);
@@ -92,7 +92,7 @@ int main(){
         cout << "\n$" << dollarsIn << " US = " << (conversionRate * dollarsIn) << " Pesos. \n";
     }
 
-    // Define the pesoToDollars function.
+    // This void function converts the inputted Pesos to Dollars
     void pesosToDollars(float conversion, unsigned pesosIn){
     // Adjust the formatting.
         cout.setf(ios::fixed);
