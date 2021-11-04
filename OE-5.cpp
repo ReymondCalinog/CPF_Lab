@@ -1,6 +1,6 @@
 //Name: Reymond Y. Calinog
 //Activity: OE-5
-//Description: A decrypter program that descrypts a message, using void functions and functions with paramaters implementations
+//Description: A decrypter program that decrypt a message, using void functions and functions with parameters implementations
 //Date: 11/4/2021
 
 #include <iostream>
