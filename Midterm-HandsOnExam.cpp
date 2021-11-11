@@ -26,7 +26,7 @@ int main(){
         cout << "[3] Centimeter to Millimeter" << endl;
         cout << "[4] Inch to Foot" << endl;
         cout << "[5] Exit" << endl;
-        cout << "Select Function : ";
+        cout << "Select a Conversion : ";
         cin >> ch;
 
         switch(ch){
