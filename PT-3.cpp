@@ -1,6 +1,6 @@
 //Name: Reymond Y. Calinog
 //Activity: PT-3
-//Description:
+//Description: Create a program that files the I/O stream of the Salary/POS program that records the file permanently
 //Date: 11/21/2021
 
 #include <iostream>

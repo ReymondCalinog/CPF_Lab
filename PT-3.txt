@@ -1,0 +1,23 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RECEIPT OF BOUGHT PRODUCTS
+Customer's Name                  : Reymond
+First product's Name             : Apple
+Quantity                         : 5
+Price                            : 20
+Total Price of 1st Product       : 100
+
+Second product's Name            : Banana
+Quantity                         : 3
+Price                            : 12
+Total Price of 2nd Product       : 36
+
+Third product's Name             : Chicken
+Quantity                         : 2
+Price                            : 120.97
+Total Price of 3rd Product       : 241.94
+
+Total Amount of all products w/o 12% VAT  : P377.94
+VAT 12%                                   : P45.3528
+Total Amount of all products + 12% VAT    : P423.293
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
