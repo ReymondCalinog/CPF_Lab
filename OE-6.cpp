@@ -161,7 +161,7 @@ void sortingArray2(){ //This void function is used for descending order of array
     }
 }
 
-void three(){ //This void function is used for letting you use the decrpyter program again after a while
+void three(){ //This void function is used for letting you use the array program again after a while
     cin.ignore(100, '\n');
     cout << "\nPress Enter or Return to continue...";
     cin.get();
