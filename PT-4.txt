@@ -1,0 +1,66 @@
+
+<< Array Manipulation >>
+[1] Searching Array
+[2] Sorting Array (Ascending)
+[3] Sorting array (Descending)
+[0] Exit the Program
+Enter your choice: 1
+
+<< Searching Array >>
+Enter the size of an Array: 3
+Enter the Array Element [0]: 10
+Enter the Array Element [1]: 60
+Enter the Array Element [2]: 30
+
+Enter Element of an Array to be Searched: 60
+Element of an array is 60 and was found at position 2
+
+<< Array Manipulation >>
+[1] Searching Array
+[2] Sorting Array (Ascending)
+[3] Sorting array (Descending)
+[0] Exit the Program
+Enter your choice: 2
+
+<< Sorting Array (Ascending) >>
+Enter the size of Array: 5
+Enter the Array Element [0]: 65
+Enter the Array Element [1]: 36
+Enter the Array Element [2]: 98
+Enter the Array Element [3]: 45
+Enter the Array Element [4]: 78
+
+Elements of array in sorted ascending order: 
+Element of Array [0]: 36
+Element of Array [1]: 45
+Element of Array [2]: 65
+Element of Array [3]: 78
+Element of Array [4]: 98
+
+<< Array Manipulation >>
+[1] Searching Array
+[2] Sorting Array (Ascending)
+[3] Sorting array (Descending)
+[0] Exit the Program
+Enter your choice: 3
+
+<< Sorting Array (Descending) >>
+Enter the size of Array: 4Enter the Array Element [0]: 68
+Enter the Array Element [1]: 98
+Enter the Array Element [2]: 12
+Enter the Array Element [3]: 47
+
+Elements of array in sorted descending order: 
+Element of Array [0]: 98
+Element of Array [1]: 68
+Element of Array [2]: 47
+Element of Array [3]: 12
+
+<< Array Manipulation >>
+[1] Searching Array
+[2] Sorting Array (Ascending)
+[3] Sorting array (Descending)
+[0] Exit the Program
+Enter your choice: 0
+
+The program will be terminated!
